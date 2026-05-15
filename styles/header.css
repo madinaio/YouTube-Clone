@@ -30,6 +30,7 @@
     align-items: center;
     justify-content: space-between;
     margin-right: 20px;
+    flex-shrink: 0;
 }
 
 
@@ -73,6 +74,7 @@
     outline: none;
     padding-left: 10px;
     border-radius: 2px 0 0 2px;
+    width: 0;
 }
 
 
